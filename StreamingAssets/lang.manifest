@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.41f1
+CRC: 1998152620
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1488d02a919cb7f08dbe9f81a4f9396
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a12dfbd433d2ee7a46c5ad237c6c6d99
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameBalance/Binary/BannedWords/ru.txt
+- Assets/GameBalance/Binary/Lang/ru.txt
+- Assets/GameBalance/Binary/BannedWords/en.txt
+Dependencies: []

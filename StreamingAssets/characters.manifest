@@ -1,0 +1,90 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.41f1
+CRC: 1974626129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66d0b7df09155244c0d0c68402465b3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d526631c42aa896e86d6e6e2e8bdf7f1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 500835fe2b414a52755d18d1322778d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1779ff96114237e48acbb44e9f46a738, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9db98c60740638449864eb028fbe7ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Slider/SliderEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials/ReplacementMaterial
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.SkeletonMecanim/MecanimTranslator
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.SkeletonRenderer/SpriteMaskInteractionMaterials
+Assets:
+- Assets/Prefabs/Characters/3333.prefab
+- Assets/Prefabs/Characters/5555.prefab
+- Assets/Prefabs/Characters/6666.prefab
+- Assets/Prefabs/Characters/2222.prefab
+- Assets/Prefabs/Characters/1111.prefab
+- Assets/Prefabs/Characters/4444.prefab
+Dependencies: []
