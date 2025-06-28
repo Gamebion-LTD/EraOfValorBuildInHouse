@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.41f1
-CRC: 2412093572
+CRC: 1311932655
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9da4f3cd7e0771505b386fc70ed45f6a
+    Hash: bc4328ed1701e705398b40ea979c0118
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5ad585dd02dfb5016c0dad519eab8f49
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 27efd762fcf9ac30575a934d385110a7
+    Hash: 957e4b8876d41babe7f279f25ecd28be
 HashAppended: 0
 ClassTypes:
 - Class: 49
@@ -19,6 +19,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/GameBalance/Binary/Characters.txt
 - Assets/GameBalance/Binary/Boss.txt
+- Assets/GameBalance/Binary/Equipment.txt
 - Assets/GameBalance/Binary/Gear.txt
 - Assets/GameBalance/Binary/EquipmentModifiers.txt
 - Assets/GameBalance/Binary/Abilities.txt

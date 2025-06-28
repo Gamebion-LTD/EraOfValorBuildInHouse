@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.41f1
-CRC: 2588506514
+CRC: 1927436460
 HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: characters
+      Name: lang
       Dependencies: {}
     Info_1:
       Name: balance
       Dependencies: {}
     Info_2:
-      Name: lang
+      Name: characters
       Dependencies: {}
     Info_3:
       Name: screens
